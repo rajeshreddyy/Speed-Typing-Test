@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.speedTypingTest {
+    background: linear-gradient(to right, #f3eaff, #dac0ff);
+    height: 100vh;
+    box-sizing: border-box;
+    max-width: 537px;
+    overflow: auto;
+}
+
+.speed-typing-test {
+    color: #690cb0;
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: bold;
+    /* max-width: 2px; */
+    /* max-height: 80px; */
+}
+
+.paragraph {
+    color: #3e4c59;
+    font-family: "Roboto";
+}
+
+.timer-img {
+    height: 60px;
+    width: 60px;
+}
+
+.seconds {
+    font-size: 50px;
+}
+
+.seconds-text {
+    font-size: 15px;
+}
+
+.quote-container {
+    background-color: #f2ebfe;
+    border: 1px solid #9aa5b1;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    color: #ffffff;
+    border-width: 0;
+    font-family: "Roboto";
+    height: 35px;
+    width: 70px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.reset-btn {
+    background-color: #ffffff;
+    color: #323f4b;
+    border-width: 0;
+    font-family: "Roboto";
+    height: 35px;
+    width: 70px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+.quote-display{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+}
